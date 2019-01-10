@@ -1,2 +1,2 @@
-# Nodejs
-NodeJS Repo for Learning NodeJSs
+# Node JS
+Node JS Repo for Learning NodeJS
